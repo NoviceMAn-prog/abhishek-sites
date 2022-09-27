@@ -3,7 +3,7 @@ title: An Efficient Multi-Scale Fusion Network for 3D Organ at Risk (OAR) Segmen
 publication_types:
   - "1"
 authors:
-  - \bf{Abhishek Srivastava}
+  - Abhishek Srivastava
   - Debesh Jha
   - Elif Keles
   - Bulent Aydogan
