@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: My research interests include Medical Image Analysis, Document Analysis,
   Face Hallucination, Uncertainty Estimation, and Domain Generalization.
 interests:
-  - My research interests include Medical Image Analysis
+  - Medical Image Analysis
   - Document Analysis
   - Face Hallucination
   - Uncertainty Estimation
@@ -29,7 +29,7 @@ social:
     icon: researchgate
     link: https://www.researchgate.net/profile/Abhishek-Srivastava-104
 organizations:
-  - name: Indian Statistical Institute
+  - name: Northwestern University
     url: https://www.northwestern.edu/
 education:
   courses:
@@ -42,4 +42,4 @@ superuser: true
 highlight_name: true
 ---
 I am a Post Baccalaureate Research Fellow at the Machine and Hybrid Intelligence Lab, Feinberg School of Medicine, Northwestern University. Currently I am working on Uncertainty Estimation and Domain Generalization under the Supervision of [Dr. Ulas Bagci](https://sites.northwestern.edu/bagci/). Prior to this I spent two wonderful year working in the Computer Vision and Pattern Recognition Unit, Indian Statistical Institute, Kolkata under the supervision of [Dr Umapada Pal](https://www.isical.ac.in/~umapada/) and [Dr Sukalpa Chanda](https://www.hiof.no/iio/itk/english/people/aca/sukalpac/index.html). At ISI, I worked on several different projects in the field of Medical Image Analysis, Writer Indentification and Face Super-resolution. Moreover, I was responsible for the development of a remote vital estimation system funded by [BabySensor, Norway](https://babysensor.com/). I completed my Bachelor of Technology with Honors in Computer Science and Engineering from Jaypee Institute of Information Technology in 2021.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "images/Abhishek_s_Complete_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
