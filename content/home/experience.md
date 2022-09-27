@@ -42,8 +42,7 @@ experience:
     location: Kolkata
     date_start: '2021-09-15'
     date_end: '2022-04-15'
-    description: |2-
-        Resumed my earlier responsibilities at ISI
+    description: Resumed my earlier responsibilities at ISI
       
 
 design:
