@@ -13,40 +13,38 @@ title: Experience
 subtitle:
 
 # Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Post Baccalaureate Researcher
-    company: Machine and Hybrid Intelligence Lab, Northwestern University
-    company_url: ''
-    company_logo: org-x
-    location: Chicago
-    date_start: '2022-05-01'
-    date_end: ''
-    description: |2-
-        Research Topics include:
-        * Self-supervised Learning
-        * Uncertainty Estimation
-        * Out-Distribution Detection
+  - title: Post Baccalaureate Research Fellow
+    company: Northwestern University
+    company_url: ''
+    company_logo: org-gc
+    location: Chicago
+    date_start: '2022-05-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
-  - title: Research Project Linked Personnel
-    company: Indian Statistical Institute
-    company_url: ''
-    company_logo: org-gc
-    location: Kolkata
-    date_start: '2021-09-15'
-    date_end: '2022-04-15'
-    description: Resumed my earlier responsibilities at ISI
-      
+  - title: Research Project Linked Personnel
+    company: Indian Statistical Institute
+    company_url: ''
+    company_logo: org-x
+    location: Kolkata
+    date_start: '2021-09-15'
+    date_end: '2022-04-15'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '2'
+  columns: '2'
 ---
-
-
