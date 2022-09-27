@@ -37,7 +37,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: msrf-website.jpeg
+  filename: featured.jpeg
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -55,6 +55,6 @@ url_poster: ""
 url_code: ""
 ---
 
-GitHub Link: [Code](https://github.com/NoviceMAn-prog/MSRF-Net)
-Arxiv Link: [Preprint](https://arxiv.org/abs/2105.07451)
+{{< hl >}}GitHub Link{{< hl >}}: [Code](https://github.com/NoviceMAn-prog/MSRF-Net)
+{{< hl >}}Arxiv Link{{< hl >}}: [Preprint](https://arxiv.org/abs/2105.07451)
 
