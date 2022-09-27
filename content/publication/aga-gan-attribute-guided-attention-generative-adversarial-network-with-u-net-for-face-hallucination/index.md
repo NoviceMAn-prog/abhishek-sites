@@ -8,7 +8,7 @@ authors:
   - Sukalpa Chanda
   - Umapada Pal
 publication_short: ""
-abstract: The performance of facial super-resolution methods relies on their
+abstract: "The performance of facial super-resolution methods relies on their
   ability to recover facial structures and salient features effectively. Even
   though the convolutional neural network and generative adversarial
   network-based methods deliver impressive performances on face hallucination
@@ -21,13 +21,7 @@ abstract: The performance of facial super-resolution methods relies on their
   the discriminator to learn discriminative features by exploiting the
   relationship between the high-resolution image and their corresponding facial
   attribute annotations. We then explore the use of U-Net based architecture to
-  refine existing predictions and synthesize further facial details. Extensive
-  experiments across several metrics show that our AGA-GAN and AGA-GAN + U-Net
-  framework outperforms several other cutting-edge face hallucination
-  state-of-the-art methods. We also demonstrate the viability of our method when
-  every attribute descriptor is not known and thus, establishing its application
-  in real-world scenarios. Our code is available at
-  https://github.com/NoviceMAn-prog/AGA-GAN.
+  refine existing predictions and synthesize further facial details. "
 draft: false
 featured: true
 tags: []
@@ -51,7 +45,7 @@ date: 2022-09-27T15:21:04.432Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/NoviceMAn-prog/AGA-GAN
+url_code: https://github.com/NoviceMAn-prog/GMSRFNet
 ---
 
 {{< hl >}}GitHub Link{{< hl >}}: [Code](https://github.com/NoviceMAn-prog/AGA-GAN)
