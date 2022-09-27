@@ -4,41 +4,20 @@ title: "MSRF-Net: A Multi-Scale Residual Fusion Network  for Biomedical Image
 publication_types:
   - "2"
 authors:
-  - \textbf{Abhishek Srivastava}
+  - Abhishek Srivastava
   - Debesh Jha
   - Sukalpa Chanda
   - Umapada Pal
-  - H{\aa}vard D. Johansen
-  - Dag Johansen
-  - Michael A. Riegler
-  - Sharib Ali
-  - P{\aa}l Halvorsen
 publication_short: In IEEE JBHI
 abstract: Methods based on convolutional neural networks have improved the
-  performance of biomedical image segmentation. However, most of these methods
-  cannot efficiently segment objects of variable sizes and train on small and
-  biased datasets, which are common for biomedical use cases. While methods
-  exist that incorporate multi-scale fusion approaches to address the challenges
-  arising with variable sizes, they usually use complex models that are more
-  suitable for general semantic segmentation problems. In this paper, we propose
-  a novel architecture called Multi-Scale Residual Fusion Network (MSRF-Net),
-  which is specially designed for medical image segmentation. The proposed
-  MSRF-Net is able to exchange multi-scale features of varying receptive fields
-  using a Dual-Scale Dense Fusion (DSDF) block. Our DSDF block can exchange
-  information rigorously across two different resolution scales, and our MSRF
-  sub-network uses multiple DSDF blocks in sequence to perform multi-scale
-  fusion. This allows the preservation of resolution, improved information flow
-  and propagation of both high- and low-level features to obtain accurate
-  segmentation maps.
+  performance of biomedical image segmentation.
 draft: true
 featured: true
 tags: []
 slides: ""
 url_pdf: ""
 image:
-  caption: Components of our MSRF-Net, a) Proposed DSDF block and b) MSRF
-    sub-network. Dotted rectangle block in (b) represents multi-scale feature
-    exchange in MSRF-Net
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: ""
