@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Post Baccalaureate Research Fellow
     company: Northwestern University
-    company_url: ''
+    company_url: 'https://sites.northwestern.edu/machineandhybridintelligence/people/'
     company_logo: nulogo
     location: Chicago
     date_start: '2022-05-01'
@@ -38,7 +38,7 @@ experience:
 
   - title: Research Project Linked Personnel
     company: Indian Statistical Institute
-    company_url: ''
+    company_url: 'https://cvpru.isical.ac.in/'
     company_logo: isi
     location: Kolkata
     date_start: '2021-09-15'
@@ -49,7 +49,7 @@ experience:
 
   - title: Computer Vision Research Intern
     company: Indian Statistical Institute
-    company_url: ''
+    company_url: 'https://cvpru.isical.ac.in/'
     company_logo: isi
     location: Kolkata
     date_start: '2020-05-15'
