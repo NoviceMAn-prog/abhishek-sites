@@ -1,87 +1,63 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "MSRF-Net: A Multi-Scale Residual Fusion Network  for Biomedical Image
+  Segmentation"
+publication_types:
+  - "2"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - \textbf{Abhishek Srivastava}
+  - Debesh Jha
+  - Sukalpa Chanda
+  - Umapada Pal
+  - H{\aa}vard D. Johansen
+  - Dag Johansen
+  - Michael A. Riegler
+  - Sharib Ali
+  - P{\aa}l Halvorsen
+publication_short: In IEEE JBHI
+abstract: Methods based on convolutional neural networks have improved the
+  performance of biomedical image segmentation. However, most of these methods
+  cannot efficiently segment objects of variable sizes and train on small and
+  biased datasets, which are common for biomedical use cases. While methods
+  exist that incorporate multi-scale fusion approaches to address the challenges
+  arising with variable sizes, they usually use complex models that are more
+  suitable for general semantic segmentation problems. In this paper, we propose
+  a novel architecture called Multi-Scale Residual Fusion Network (MSRF-Net),
+  which is specially designed for medical image segmentation. The proposed
+  MSRF-Net is able to exchange multi-scale features of varying receptive fields
+  using a Dual-Scale Dense Fusion (DSDF) block. Our DSDF block can exchange
+  information rigorously across two different resolution scales, and our MSRF
+  sub-network uses multiple DSDF blocks in sequence to perform multi-scale
+  fusion. This allows the preservation of resolution, improved information flow
+  and propagation of both high- and low-level features to obtain accurate
+  segmentation maps.
+draft: true
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags: []
+slides: ""
+url_pdf: ""
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: Components of our MSRF-Net, a) Proposed DSDF block and b) MSRF
+    sub-network. Dotted rectangle block in (b) represents multi-scale feature
+    exchange in MSRF-Net
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: fig1ab_page-0001.jpeg
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: IEEE Journal of Biomedical and Health Informatics, 26(5), 2252-2263, 2021
+projects: []
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{< hl >}}GitHub Link{{< hl >}}: [Code](https://github.com/NoviceMAn-prog/MSRF-Net)
+{{< hl >}}Arxiv Link{{< hl >}}: [Preprint](https://arxiv.org/abs/2105.07451)
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
