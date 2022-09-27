@@ -8,9 +8,26 @@ authors:
   - Debesh Jha
   - Sukalpa Chanda
   - Umapada Pal
+  - Håvard D Johansen
+  - Dag Johansen
+  - Michael A Riegler
+  - Sharib Ali
+  - Pål Halvorsen
 publication_short: In IEEE JBHI
 abstract: Methods based on convolutional neural networks have improved the
-  performance of biomedical image segmentation.
+  performance of biomedical image segmentation. However, most of these methods
+  cannot efficiently segment objects of variable sizes and train on small and
+  biased datasets, which are common for biomedical use cases. While methods
+  exist that incorporate multi-scale fusion approaches to address the challenges
+  arising with variable sizes, they usually use complex models that are more
+  suitable for general semantic segmentation problems. In this paper, we propose
+  a novel architecture called Multi-Scale Residual Fusion Network (MSRF-Net),
+  which is specially designed for medical image segmentation. The proposed
+  MSRF-Net is able to exchange multi-scale features of varying receptive fields
+  using a Dual-Scale Dense Fusion (DSDF) block. Our DSDF block can exchange
+  information rigorously across two different resolution scales, and our MSRF
+  sub-network uses multiple DSDF blocks in sequence to perform multi-scale
+  fusion.
 draft: false
 featured: true
 tags: []
@@ -20,15 +37,16 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: ""
+  filename: fig1ab_page-0001.jpeg
 summary: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: ""
-publication: IEEE Journal of Biomedical and Health Informatics, 26(5), 2252-2263, 2021
+doi: 10.1109/JBHI.2021.3138024
+publication: "IEEE Journal of Biomedical and Health Informatics ( Volume: 26,
+  Issue: 5, May 2022)"
 projects: []
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
@@ -37,6 +55,6 @@ url_poster: ""
 url_code: ""
 ---
 
-{{< hl >}}GitHub Link{{< hl >}}: [Code](https://github.com/NoviceMAn-prog/MSRF-Net)
-{{< hl >}}Arxiv Link{{< hl >}}: [Preprint](https://arxiv.org/abs/2105.07451)
+GitHub Link: [Code](https://github.com/NoviceMAn-prog/MSRF-Net)
+Arxiv Link: [Preprint](https://arxiv.org/abs/2105.07451)
 
