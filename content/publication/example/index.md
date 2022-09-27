@@ -41,7 +41,7 @@ image:
     exchange in MSRF-Net
   focal_point: ""
   preview_only: false
-  filename: fig1ab_page-0001.jpeg
+  filename: ""
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -51,9 +51,9 @@ author_notes: []
 doi: ""
 publication: IEEE Journal of Biomedical and Health Informatics, 26(5), 2252-2263, 2021
 projects: []
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
