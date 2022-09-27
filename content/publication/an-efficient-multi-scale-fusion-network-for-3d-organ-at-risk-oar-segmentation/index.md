@@ -25,7 +25,7 @@ abstract: Accurate segmentation of organs-at-risks (OARs) is a precursor for
   model diverse contextual ranges. As a result, feature representations are
   further boosted.
 draft: false
-featured: true
+featured: false
 tags: []
 slides: ""
 url_pdf: ""
