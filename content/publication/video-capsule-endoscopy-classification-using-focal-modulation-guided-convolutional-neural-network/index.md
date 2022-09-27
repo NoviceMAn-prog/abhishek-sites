@@ -49,10 +49,10 @@ date: 2022-09-27T19:19:47.867Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: "https://github.com/NoviceMAn-prog/FocalConvNet"
+url_code: https://github.com/NoviceMAn-prog/GMSRFNet
 ---
 
-{{< hl >}}GitHub Link{{< hl >}}: [Code]()
+{{< hl >}}GitHub Link{{< hl >}}: [Code](https://github.com/NoviceMAn-prog/FocalConvNet)
 {{< hl >}}Arxiv Link{{< hl >}}: [Preprint](https://arxiv.org/abs/2206.08298)
 {{< hl >}}IEEE Xplore Link{{< hl >}}: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9867140)
 
