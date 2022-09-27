@@ -43,9 +43,7 @@ experience:
     location: Kolkata
     date_start: '2021-09-15'
     date_end: '2022-04-15'
-    description: |2-
-        Resumed my earlier responsibilities at ISI along with developement and curation of remote vital measurment system which gathered videos from
-        smartphone camera to estimate the heart rate, oxygen level, and respiration rate.
+    description: Resumed my earlier responsibilities
 
 design:
   columns: '2'
