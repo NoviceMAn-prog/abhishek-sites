@@ -53,9 +53,10 @@ date: 2022-09-27T14:28:03.330Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: "https://github.com/NoviceMAn-prog/MSRF-Net"
+url_code: https://github.com/NoviceMAn-prog/MSRF-Net
 ---
 
 {{< hl >}}GitHub Link{{< hl >}}: [Code](https://github.com/NoviceMAn-prog/MSRF-Net)
 {{< hl >}}Arxiv Link{{< hl >}}: [Preprint](https://arxiv.org/abs/2105.07451)
+{{< hl >}}IEEE Xplore Link{{< hl >}}: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9662196)
 
