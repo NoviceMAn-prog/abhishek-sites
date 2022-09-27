@@ -11,7 +11,7 @@ authors:
 publication_short: In IEEE JBHI
 abstract: Methods based on convolutional neural networks have improved the
   performance of biomedical image segmentation.
-draft: true
+draft: false
 featured: true
 tags: []
 slides: ""
