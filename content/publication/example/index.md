@@ -39,6 +39,7 @@ image:
   preview_only: false
   filename: ""
 summary: ""
+url_code: True
 url_dataset: ""
 url_project: ""
 url_source: ""
