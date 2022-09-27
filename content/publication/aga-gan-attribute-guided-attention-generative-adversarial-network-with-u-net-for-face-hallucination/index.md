@@ -41,7 +41,7 @@ author_notes: []
 doi: https://doi.org/10.1016/j.imavis.2022.104534
 publication: Elsevier Image and Vision Computing, 2022
 projects: []
-date: 2022-05-11T15:21:04.432Z
+date: 2022-09-27T20:01:23.029Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
