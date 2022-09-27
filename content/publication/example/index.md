@@ -37,7 +37,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: fig1ab_page-0001.jpeg
+  filename: msrf-website.jpeg
 summary: ""
 url_dataset: ""
 url_project: ""
