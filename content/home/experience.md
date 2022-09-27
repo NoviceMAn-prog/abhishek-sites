@@ -25,7 +25,7 @@ experience:
   - title: Post Baccalaureate Research Fellow
     company: Northwestern University
     company_url: ''
-    company_logo: northwesternlogo
+    company_logo: nulogo
     location: Chicago
     date_start: '2022-05-01'
     date_end: ''
@@ -39,13 +39,25 @@ experience:
   - title: Research Project Linked Personnel
     company: Indian Statistical Institute
     company_url: ''
-    company_logo: isilogo
+    company_logo: isi
     location: Kolkata
     date_start: '2021-09-15'
     date_end: '2022-04-15'
     description: |2-
         Resumed my earlier responsibilities at ISI
         developement and curation of remote vital measurment system which gathered videos from smartphone camera to estimate the heart rate, oxygen level, and respiration rate.
+
+  - title: Research Project Linked Personnel
+    company: Indian Statistical Institute
+    company_url: ''
+    company_logo: isi
+    location: Kolkata
+    date_start: '2021-09-15'
+    date_end: '2022-04-15'
+    description: |2-
+        Resumed my earlier responsibilities at ISI
+        developement and curation of remote vital measurment system which gathered videos from smartphone camera to estimate the heart rate, oxygen level, and respiration rate.
+        
 
 design:
   columns: '2'
