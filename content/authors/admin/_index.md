@@ -1,77 +1,45 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Abhishek Srivastava
+role: Post Baccalaureate Research Fellow
+avatar_filename: avatar.jpg
+bio: My research interests include Medical Image Analysis, Document Analysis,
+  Face Hallucination, Uncertainty Estimation, and Domain Generalization.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - My research interests include Medical Image Analysis
+  - Document Analysis
+  - Face Hallucination
+  - Uncertainty Estimation
+  - and Domain Generalization.
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: abhishek.srivastava@northwestern.edu
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=BzCoP8MAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/NoviceMAn-prog
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/abhishekcvpru/
+  - display:
+      header: false
+    icon_pack: ai
+    icon: researchgate
+    link: https://www.researchgate.net/profile/Abhishek-Srivastava-104
+organizations:
+  - name: Indian Statistical Institute
+    url: https://www.northwestern.edu/
+education:
+  courses:
+    - course: "Bachelor of Technology with Honours in Computer Science and
+        Engineering  "
+      institution: Jaypee Institute of Information Technology, Noida
+      year: 2021
+email: abhisheksrivastava2397@gmail.com
+superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+I am a Post Baccalaureate Research Fellow at the Machine and Hybrid Intelligence Lab, Feinberg School of Medicine, Northwestern University. Currently I am working on Uncertainty Estimation and Domain Generalization under the Supervision of [Dr. Ulas Bagci](https://sites.northwestern.edu/bagci/). Prior to this I spent two wonderful year working in the Computer Vision and Pattern Recognition Unit, Indian Statistical Institute, Kolkata under the supervision of [Dr Umapada Pal](https://www.isical.ac.in/~umapada/) and [Dr Sukalpa Chanda](https://www.hiof.no/iio/itk/english/people/aca/sukalpac/index.html). At ISI, I worked on several different projects in the field of Medical Image Analysis, Writer Indentification and Face Super-resolution. Moreover, I was responsible for the development of a remote vital estimation system funded by [BabySensor, Norway](https://babysensor.com/). I completed my Bachelor of Technology with Honors in Computer Science and Engineering from Jaypee Institute of Information Technology in 2021.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
