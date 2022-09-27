@@ -47,16 +47,19 @@ experience:
         Resumed my earlier responsibilities at ISI
         developement and curation of remote vital measurment system which gathered videos from smartphone camera to estimate the heart rate, oxygen level, and respiration rate.
 
-  - title: Research Project Linked Personnel
+  - title: Computer Vision Research Intern
     company: Indian Statistical Institute
     company_url: ''
     company_logo: isi
     location: Kolkata
-    date_start: '2021-09-15'
-    date_end: '2022-04-15'
+    date_start: '2020-05-15'
+    date_end: '2022-09-15'
     description: |2-
-        Resumed my earlier responsibilities at ISI
-        developement and curation of remote vital measurment system which gathered videos from smartphone camera to estimate the heart rate, oxygen level, and respiration rate.
+        Research Topics include:
+        
+        * Medical Image Analysis
+        * Face Super-resolution
+        * Document Analysis
         
 
 design:
