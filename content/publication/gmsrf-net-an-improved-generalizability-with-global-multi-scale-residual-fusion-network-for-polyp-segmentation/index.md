@@ -43,7 +43,7 @@ author_notes: []
 doi: ""
 publication: 26th International Conference on Pattern Recognition, 2022
 projects: []
-date: 2022-09-27T20:01:45.831Z
+date: 2022-09-27T20:11:41.141Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
