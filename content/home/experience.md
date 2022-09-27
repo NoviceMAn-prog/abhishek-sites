@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Post Baccalaureate Researcher
     company: Machine and Hybrid Intelligence Lab, Northwestern University
-    company_url: 'https://sites.northwestern.edu/machineandhybridintelligence/people/'
-    company_logo: northwesternlogo
+    company_url: https://sites.northwestern.edu/machineandhybridintelligence/people/
+    company_logo: 
     location: Chicago
     date_start: '2022-05-01'
     date_end: ''
@@ -37,12 +37,12 @@ experience:
 
   - title: Research Project Linked Personnel
     company: Computer Vision and Pattern Recognition Unit, Indian Statistical Institute
-    company_url: 'https://cvpru.isical.ac.in/'
-    company_logo: isilogo
+    company_url: https://cvpru.isical.ac.in/
+    company_logo: 
     location: Kolkata
     date_start: '2021-09-15'
     date_end: '2022-04-15'
-    description: |2-
+    description: >-
         Resumed my earlier responsibilities at ISI along with developement and curation of remote vital measurment system which gathered videos from
         smartphone camera to estimate the heart rate, oxygen level, and respiration rate.
         
