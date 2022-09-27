@@ -10,20 +10,20 @@ authors:
   - Mohamed Abazeed
   - Ulas Bagci
 publication_short: ""
-abstract: Efforts have been made to automate the detection and segmentation of
-  polyps, a precancerous precursor, to effectively minimize missed rate. Widely
-  used computer-aided polyp segmentation systems actuated by encoder-decoder
-  have achieved high performance in terms of accuracy. However, polyp
-  segmentation datasets collected from varied centers can follow different
-  imaging protocols leading to difference in data distribution. As a result,
-  most methods suffer from performance drop and require re-training for each
-  specific dataset. We address this generalizability issue by proposing a global
-  multi-scale residual fusion network (GMSRF-Net). Our proposed network
-  maintains high-resolution representations while performing multi-scale fusion
-  operations for all resolution scales. To further leverage scale information,
-  we design cross multi-scale attention (CMSA) and multi-scale feature selection
-  (MSFS) modules within the GMSRF-Net. The repeated fusion operations gated by
-  CMSA and MSFS demonstrate improved generalizability of the network.
+abstract: Accurate segmentation of organs-at-risks (OARs) is a precursor for
+  optimizing radiation therapy planning. Existing deep learning-based
+  multi-scale fusion architectures have demonstrated a tremendous capacity for
+  2D medical image segmentation. The key to their success is aggregating global
+  context and maintaining high resolution representations. However, when
+  translated into 3D segmentation problems, existing multi-scale fusion
+  architectures might underperform due to their heavy computation overhead and
+  substantial data diet. To address this issue, we propose a new OAR
+  segmentation framework, called OARFocalFuseNet, which fuses multi-scale
+  features and employs focal modulation for capturing global-local context
+  across multiple scales. Each resolution stream is enriched with features from
+  different resolution scales, and multi-scale information is aggregated to
+  model diverse contextual ranges. As a result, feature representations are
+  further boosted.
 draft: false
 featured: true
 tags: []
