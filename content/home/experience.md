@@ -22,43 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Post Baccalaureate Researcher
-    company: Machine and Hybrid Intelligence Lab, Northwestern University
-    company_url: https://sites.northwestern.edu/machineandhybridintelligence/people/
-    company_logo: 
-    location: Chicago
-    date_start: '2022-05-01'
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Research Topics include:
-        * Self-supervised Learning
-        * Uncertainty Estimation
-        * Out-Distribution Detection
-
-  - title: Research Project Linked Personnel
-    company: Computer Vision and Pattern Recognition Unit, Indian Statistical Institute
-    company_url: https://cvpru.isical.ac.in/
-    company_logo: 
-    location: Kolkata
-    date_start: '2021-09-15'
-    date_end: '2022-04-15'
-    description: >-
-        Resumed my earlier responsibilities at ISI along with developement and curation of remote vital measurment system which gathered videos from
-        smartphone camera to estimate the heart rate, oxygen level, and respiration rate.
+        Responsibilities include:
         
-   - title: Computer Vision Research Intern
-    company: Computer Vision and Pattern Recognition Unit, Indian Statistical Institute
-    company_url: 'https://cvpru.isical.ac.in/'
-    company_logo: isilogo
-    location: Kolkata
-    date_start: '2020-05-15'
-    date_end: '2021-09-15'
-    description: |2-
-        Research Topics included:
-        * Medical Image Analysis
-        * Face Super-resolution
-        * Document Analysis
-      
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
