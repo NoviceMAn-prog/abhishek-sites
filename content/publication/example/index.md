@@ -47,7 +47,8 @@ author_notes: []
 doi: 10.1109/JBHI.2021.3138024
 publication: "IEEE Journal of Biomedical and Health Informatics ( Volume: 26,
   Issue: 5, May 2022)"
-projects: []
+projects:
+  - https://github.com/NoviceMAn-prog/MSRF-Net
 date: 2022-09-27T14:28:03.330Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
