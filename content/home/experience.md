@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Post Baccalaureate Researcher
     company: Machine and Hybrid Intelligence Lab, Northwestern University
-    company_url: https://sites.northwestern.edu/machineandhybridintelligence/people/
+    company_url: 'https://sites.northwestern.edu/machineandhybridintelligence/people/'
     company_logo: org-x
     location: Chicago
     date_start: '2022-05-01'
@@ -37,7 +37,7 @@ experience:
 
   - title: Research Project Linked Personnel
     company: Computer Vision and Pattern Recognition Unit, Indian Statistical Institute
-    company_url: https://cvpru.isical.ac.in/
+    company_url: 'https://cvpru.isical.ac.in/'
     company_logo: org-gc
     location: Kolkata
     date_start: '2021-09-15'
