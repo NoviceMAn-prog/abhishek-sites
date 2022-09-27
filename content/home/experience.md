@@ -45,7 +45,7 @@ experience:
     description: |2-
         Resumed my earlier responsibilities at ISI
         
-   - title: Computer Vision Research Intern
+  - title: Computer Vision Research Intern
     company: Computer Vision and Pattern Recognition Unit, Indian Statistical Institute
     company_url: 'https://cvpru.isical.ac.in/'
     company_logo: isilogo
