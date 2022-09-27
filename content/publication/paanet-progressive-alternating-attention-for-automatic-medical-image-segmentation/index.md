@@ -4,10 +4,13 @@ title: "PAANet: Progressive Alternating Attention for Automatic Medical Image
 publication_types:
   - "1"
 authors:
-  - Nikhil Kumar Tomar
   - Abhishek Srivastava
-  - Ulas Bagci
+  - Sukalpa Chanda
   - Debesh Jha
+  - Michael A Riegler
+  - Pål Halvorsen
+  - Dag Johansen
+  - Umapada Pal
 publication_short: ""
 abstract: Medical image segmentation can provide detailed information for
   clinical analysis which can be useful for scenarios where the detailed
