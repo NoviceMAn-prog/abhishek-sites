@@ -30,11 +30,11 @@ experience:
     date_start: '2022-05-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Research Topics include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Self-supervised Learning
+        * Uncertainty Estimation
+        * Out-Distribution Detection
 
   - title: Research Project Linked Personnel
     company: Indian Statistical Institute
@@ -43,7 +43,8 @@ experience:
     location: Kolkata
     date_start: '2021-09-15'
     date_end: '2022-04-15'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: >- Resumed my earlier responsibilities at ISI along with developement and curation of remote vital measurment system which gathered videos from
+        smartphone camera to estimate the heart rate, oxygen level, and respiration rate.
 
 design:
   columns: '2'
