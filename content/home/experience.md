@@ -44,19 +44,6 @@ experience:
     date_end: '2022-04-15'
     description: |2-
         Resumed my earlier responsibilities at ISI
-        
-  - title: Computer Vision Research Intern
-    company: Computer Vision and Pattern Recognition Unit, Indian Statistical Institute
-    company_url: 'https://cvpru.isical.ac.in/'
-    company_logo: org-gc
-    location: Kolkata
-    date_start: '2020-05-15'
-    date_end: '2021-09-15'
-    description: |2-
-        Research Topics included:
-        * Medical Image Analysis
-        * Face Super-resolution
-        * Document Analysis
       
 
 design:
