@@ -26,7 +26,7 @@ abstract: Colorectal cancer is one of the major cause of cancer-related death
   dataset obtains a dice coefficient of 0.7055, Jaccard of 0.6176, a recall of
   0.7293, and a precision of 0.7769.
 draft: false
-featured: true
+featured: false
 tags: []
 slides: ""
 url_pdf: ""
