@@ -53,7 +53,7 @@ doi: 10.1109/BioSMART54244.2021.9677844
 publication: 2021 4th International Conference on Bio-Engineering for Smart
   Technologies (BioSMART)
 projects: []
-date: 2022-09-27T19:29:06.770Z
+date: 2022-09-27T20:02:43.850Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
